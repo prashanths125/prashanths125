@@ -28,7 +28,7 @@ I'm enthusiastic about staying up-to-date with the latest developments in cloud 
 
 ## 📫 Let's Connect
 
-- LinkedIn: [https://www.linkedin.com/in/sprashanthclouddevopsai/)
+- LinkedIn: [Your LinkedIn Profile](sprashanthclouddevopsai/)
 - IG: [Your IG Name](link-to-ig)
 - FB: [Your FB Name](link-to-fb)
 
