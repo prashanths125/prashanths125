@@ -20,7 +20,7 @@
 
 ## 📚 Education
 
-- Bachelor of Technology (B.Tech) in [Your Major] - JNTU Kakinada University, 2022
+- Bachelor of Technology (B.Tech) - JNTU Hyderabad University, 2011
 
 ## 🌱 Interests
 
@@ -28,13 +28,13 @@ I'm enthusiastic about staying up-to-date with the latest developments in cloud 
 
 ## 📫 Let's Connect
 
-- LinkedIn: [Your LinkedIn Profile](link-to-linkedin)
+- LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/sprashanthclouddevopsai)
 - IG: [Your IG Name](link-to-ig)
 - FB: [Your FB Name](link-to-fb)
 
 ## 🌐 Online Presence
 
-- [DevOps AWS with Python](https://devopsgvenkat.blogspot.com/): Share your insights and experiences in tech.
+- [AICloudDevOps](https://sprashanthclouddevopsai.blogspot.com//): Share your insights and experiences in tech.
 - [Portfolio Website](link-to-portfolio): Explore more about my work and projects.
 
 ## 🏆 Achievements
