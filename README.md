@@ -1,7 +1,7 @@
 
 # Welcome to Prashanth's GitHub Repository
 
-👋 Hi there! I'm Prashanth, an entry-level IT professional passionate about cloud computing, DevOps, and Python. Currently, I'm working in Infosys Limited, where I'm working on a variety of exciting projects involving AWS services, Python development, and containerization technologies.
+👋 Hi there! I'm Prashanth, an IT professional passionate about cloud computing, DevOps, and Python. Currently, I'm working in Infosys Limited, where I'm working on a variety of exciting projects involving AWS services, Python development, and containerization technologies.
 
 ## 🔧 Skills
 
