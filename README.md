@@ -12,10 +12,10 @@
 
 ## 🛠️ Projects
 
-### Project 1: [Project Name 1](link-to-repo)
+### Project 1: [Project Name 1](https://github.com/prashanths125/aws-iam-automation-with-mfa)
    Description of the project and your role in it.
 
-### Project 2: [Project Name 2](link-to-repo)
+### Project 2: [Project Name 2](https://github.com/prashanths125/Project-Pipeline)
    Description of the project and your role in it.
 
 ## 📚 Education
